@@ -4,7 +4,7 @@ Linked List (Go)
 
 This project is for my study
 
-## How to build
+## How to test 
 
 ```
 go test -v
